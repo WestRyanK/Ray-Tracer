@@ -4,6 +4,7 @@ attenuation, and texture mapping. I used a median split space partitioning
 algorithm for speed optimization.
 
 Here are some cool renders I've done:
+
 ![Gallery Render](Output/lab_03/scene_gallery.png "Gallery Render")
 
 ![Dungeon Hall Render](Output/lab_03/scene_hallway.png "Dungeon Hall Render")
